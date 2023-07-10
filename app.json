@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "native_developer_job_search",
+    "slug": "native_developer_job_search"
+  }
+}
